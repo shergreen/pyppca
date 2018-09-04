@@ -1,1 +1,1 @@
-from pyppca.pyppca import ppca
+from pyppca import ppca

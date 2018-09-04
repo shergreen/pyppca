@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyppca",
-    version="0.0.1",
+    version="0.0.3",
     author="Sheridan Green",
     author_email="sheridan.green@yale.edu",
     description="Probabilistic PCA with Missing Values",
