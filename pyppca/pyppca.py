@@ -17,6 +17,7 @@ from numpy.random import normal
 from numpy.linalg import inv, det, eig
 from numpy import identity as eye
 from numpy import trace as tr
+from scipy.linalg import orth
 
 def ppca(Y,d,dia):
     """
