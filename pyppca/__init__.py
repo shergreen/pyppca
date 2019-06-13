@@ -1,1 +1,2 @@
-from pyppca import ppca
+name = "pyppca"
+from .pyppca import ppca
